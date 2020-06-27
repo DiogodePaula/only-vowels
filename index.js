@@ -5,4 +5,4 @@ function onlyVowels( Programacao ){
 
 const resultado = onlyVowels( "Todo dia aprendendo um pouco mais" );
 
-console.log( resultado );
+console.log( resultado ); 
